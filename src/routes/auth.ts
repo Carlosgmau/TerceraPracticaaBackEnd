@@ -5,7 +5,6 @@ import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 
 
-
 export const authRouter = Router();
 
 authRouter.post("/register", async (req, res) => {
