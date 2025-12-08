@@ -1,0 +1,10 @@
+Buenas tardes,
+
+He actualizado el código eliminando el espaciado entre líneas. Es una tendencia que tengo al programas. No quiero que haya ningún malentendido y estaré disponible para explicar el código.
+
+Hice un comentario parecido a este en la cuarta práctica.
+
+
+Un saludo
+
+Carlos
